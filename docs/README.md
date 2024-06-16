@@ -20,4 +20,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 - Cityen concernané, travaillant dans le domaine de las santé et de la data avec la volonté de rendre accessible ces données à chacun.
 
 ## Me soutenir
-- Pour lancer le proejt sur un site en propre : tipeee
+- Lancer la même chose sur un site web dédié OU tenter une nouvele aventure graphique
