@@ -1,0 +1,27 @@
+site_name: Catalogue Open Data Santé
+
+repo_url: https://github.com/catalogue-open-data-sante/catalogue-open-data-sante.github.io
+repo_name: catalogue-open-data-sante.github.io
+
+
+nav:
+  - Bienvenue! : README.md
+  - Commetn naviguer? : navigation_explanation.md
+  - Roadmap: roadmap.md
+
+  - Les fournisseurs de données: 
+    - Santé Publique France: fournisseurs/spf.md
+    - République française: fournisseurs/rep_francaise.md
+
+  - Les boards de données:
+    - Data.gouv.fr: boards/data_gouv_fr.md
+
+  - Les bases de données:
+    - Surveillance du Sars-Cov-2 dans les eaux usées - SUM'eau: 
+      - Présentation: bases/sumeau/sumeau.md
+      - sumeau-indicateurs-YYYY-mm-DD-HHhMM: bases/sumeau/sumeau-indicateurs.md
+      - sumeau-stations-YYYY-mm-DD-HHhMM]: bases/sumeau/sumeau-stations.md
+
+
+theme:
+  name: readthedocs
