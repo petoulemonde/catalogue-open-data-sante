@@ -21,5 +21,5 @@ Ces données sont actualisées à fréquence hebdomadaire.
 *Description extraite de la page de la base*
 
 ## Liste des tables
-- [sumeau-indicateurs-YYYY-mm-DD-HHhMM](sumeau-indicateurs.md)
-- [sumeau-stations-YYYY-mm-DD-HHhMM](sumeau-stations.md)
+- [sumeau-indicateurs-YYYY-mm-DD-HHhMM](sumeau_indicateurs.md)
+- [sumeau-stations-YYYY-mm-DD-HHhMM](sumeau_stations.md)

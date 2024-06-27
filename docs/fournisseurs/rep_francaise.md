@@ -1,4 +1,4 @@
-# Santé Publique France
+# République française
 
 ## Les boards
-- [Data.gouv.fr](data_gouv_fr.md)
+- [Data.gouv.fr](boards/data_gouv_fr.md)

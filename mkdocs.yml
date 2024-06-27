@@ -1,7 +1,7 @@
 site_name: Catalogue Open Data Santé
 
-repo_url: https://github.com/catalogue-open-data-sante/catalogue-open-data-sante.github.io
-repo_name: catalogue-open-data-sante.github.io
+repo_url: https://github.com/petoulemonde/catalogue-open-data-sante
+repo_name: Catalogue open data sante
 
 
 nav:
@@ -19,9 +19,9 @@ nav:
   - Les bases de données:
     - Surveillance du Sars-Cov-2 dans les eaux usées - SUM'eau: 
       - Présentation: bases/sumeau/sumeau.md
-      - sumeau-indicateurs-YYYY-mm-DD-HHhMM: bases/sumeau/sumeau-indicateurs.md
-      - sumeau-stations-YYYY-mm-DD-HHhMM]: bases/sumeau/sumeau-stations.md
+      - sumeau-indicateurs-YYYY-mm-DD-HHhMM: bases/sumeau/sumeau_indicateurs.md
+      - sumeau-stations-YYYY-mm-DD-HHhMM]: bases/sumeau/sumeau_stations.md
 
 
 theme:
-  name: readthedocs
+  name: material
