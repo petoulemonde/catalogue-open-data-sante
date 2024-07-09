@@ -28,5 +28,6 @@ Pour toute question ou correction du site, vous pouvez me contacter à l'adresse
 
 J'ai plusieurs idées pour faire évoluer ce site , autant graphiquement que dans le contenu. 
 
-Si le projet vous plait et que vous souhaitez le voir écoluer, venez me soutenir sur <img src="images/logo_tipeee.jpg" width="200"/>
+Si le projet vous plait et que vous souhaitez le voir écoluer, venez me soutenir sur [tipeee](https://fr.tipeee.com/soutenir-catalogue-open-data-sante/) !
+<a href="https://fr.tipeee.com/soutenir-catalogue-open-data-sante/"><img src="images/logo_tipeee.jpg" width="200"/></a>
 
