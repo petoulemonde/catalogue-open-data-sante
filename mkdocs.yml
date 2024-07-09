@@ -6,7 +6,7 @@ repo_name: Catalogue open data sante
 
 nav:
   - Bienvenue! : README.md
-  - Commetn naviguer? : navigation_explanation.md
+  - Comment naviguer? : navigation_explanation.md
   - Roadmap: roadmap.md
 
   - Les fournisseurs de données: 
